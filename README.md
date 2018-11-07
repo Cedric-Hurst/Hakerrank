@@ -1,2 +1,2 @@
 # Hakerrank
-coding problems from hakerrank
+coding problems from hackerrank
